@@ -1,3 +1,4 @@
 2025-02-02T15:51:06 fix: handle edge case in date parsing
 2025-02-03T12:58:19 refactor: pull constants to module top
 2025-02-03T14:19:18 chore: bump internal version
+2025-02-03T16:49:44 perf: skip redundant render
