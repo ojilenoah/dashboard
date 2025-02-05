@@ -5,3 +5,4 @@
 2025-02-03T17:55:24 feat: try alternate animation
 2025-02-04T10:05:00 feat: prototype filter UI
 2025-02-04T13:00:22 refactor: extract shared helper
+2025-02-04T14:12:37 chore: rename internal symbol
