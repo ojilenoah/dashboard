@@ -9,3 +9,4 @@
 2025-02-04T16:18:41 refactor: pull constants to module top
 2025-02-06T14:18:18 test: cover empty-state rendering
 2025-02-07T17:15:37 docs: note follow-ups
+2025-02-09T10:08:03 style: tighten spacing on cards
