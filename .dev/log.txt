@@ -21,3 +21,4 @@
 2025-02-11T16:48:34 chore: rename internal symbol
 2025-02-12T17:08:40 docs: note follow-ups
 2025-02-12T21:22:30 feat: try alternate animation
+2025-02-13T10:11:34 fix: respect reduced-motion preference
