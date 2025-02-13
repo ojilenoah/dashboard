@@ -20,3 +20,4 @@
 2025-02-11T11:24:00 chore: rename internal symbol
 2025-02-11T16:48:34 chore: rename internal symbol
 2025-02-12T17:08:40 docs: note follow-ups
+2025-02-12T21:22:30 feat: try alternate animation
