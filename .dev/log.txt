@@ -23,3 +23,4 @@
 2025-02-12T21:22:30 feat: try alternate animation
 2025-02-13T10:11:34 fix: respect reduced-motion preference
 2025-02-13T14:43:18 fix: typo in component name
+2025-02-16T14:22:23 refactor: collapse duplicate branches
