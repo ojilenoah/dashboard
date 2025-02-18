@@ -26,3 +26,4 @@
 2025-02-16T14:22:23 refactor: collapse duplicate branches
 2025-02-17T16:14:32 chore: rename internal symbol
 2025-02-17T16:56:38 chore: minor housekeeping
+2025-02-17T17:40:49 docs: add inline notes
