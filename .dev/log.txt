@@ -27,3 +27,4 @@
 2025-02-17T16:14:32 chore: rename internal symbol
 2025-02-17T16:56:38 chore: minor housekeeping
 2025-02-17T17:40:49 docs: add inline notes
+2025-02-18T14:55:08 fix: typo in component name
