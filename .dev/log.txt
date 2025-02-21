@@ -30,3 +30,4 @@
 2025-02-18T14:55:08 fix: typo in component name
 2025-02-19T11:39:33 fix: typo in component name
 2025-02-19T12:39:05 fix: typo in component name
+2025-02-20T12:13:02 docs: note follow-ups
