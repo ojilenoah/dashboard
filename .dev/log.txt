@@ -34,3 +34,4 @@
 2025-02-21T10:08:29 wip: sketch dashboard variant
 2025-02-21T14:02:57 chore: tidy up imports
 2025-02-25T15:42:20 docs: add inline notes
+2025-02-27T10:01:29 feat: try alternate animation
