@@ -35,3 +35,4 @@
 2025-02-21T14:02:57 chore: tidy up imports
 2025-02-25T15:42:20 docs: add inline notes
 2025-02-27T10:01:29 feat: try alternate animation
+2025-02-27T10:35:42 chore: rename internal symbol
