@@ -42,3 +42,4 @@
 2025-03-01T10:06:52 docs: clarify setup steps
 2025-03-03T16:06:11 perf: skip redundant render
 2025-03-03T16:13:05 docs: note follow-ups
+2025-03-04T10:45:06 feat: prototype filter UI
