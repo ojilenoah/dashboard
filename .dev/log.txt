@@ -47,3 +47,4 @@
 2025-03-04T16:52:43 chore: bump internal version
 2025-03-04T17:50:51 fix: typo in component name
 2025-03-05T13:30:04 style: nudge avatar size
+2025-03-05T23:04:26 docs: note follow-ups
