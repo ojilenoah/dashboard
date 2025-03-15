@@ -56,3 +56,4 @@
 2025-03-12T13:07:43 docs: add inline notes
 2025-03-14T14:00:47 fix: respect reduced-motion preference
 2025-03-14T18:38:21 chore: update local notes
+2025-03-15T10:43:14 refactor: pull constants to module top
