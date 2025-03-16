@@ -61,3 +61,4 @@
 2025-03-15T11:58:21 chore: tidy up imports
 2025-03-15T12:16:13 refactor: simplify state derivation
 2025-03-15T15:30:30 feat: prototype filter UI
+2025-03-15T17:32:35 style: align icons in header
