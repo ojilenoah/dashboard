@@ -63,3 +63,4 @@
 2025-03-15T15:30:30 feat: prototype filter UI
 2025-03-15T17:32:35 style: align icons in header
 2025-03-15T21:30:59 style: tighten spacing on cards
+2025-03-17T09:41:44 style: align icons in header
