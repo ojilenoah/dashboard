@@ -67,3 +67,4 @@
 2025-03-17T13:34:38 test: snapshot edge case
 2025-03-17T15:56:30 chore: cleanup dead code
 2025-03-17T21:32:10 fix: ensure consistent ring color
+2025-03-18T12:47:49 docs: note follow-ups
