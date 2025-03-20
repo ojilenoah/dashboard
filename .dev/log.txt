@@ -71,3 +71,4 @@
 2025-03-18T14:46:50 perf: memoize derived value
 2025-03-18T16:27:13 fix: handle edge case in date parsing
 2025-03-19T10:09:27 feat: scaffold new section
+2025-03-19T16:51:07 style: align icons in header
