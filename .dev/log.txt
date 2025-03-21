@@ -75,3 +75,4 @@
 2025-03-20T12:58:16 style: align icons in header
 2025-03-20T13:04:52 docs: note follow-ups
 2025-03-20T15:22:31 fix: typo in component name
+2025-03-21T11:48:45 test: cover empty-state rendering
