@@ -73,3 +73,4 @@
 2025-03-19T10:09:27 feat: scaffold new section
 2025-03-19T16:51:07 style: align icons in header
 2025-03-20T12:58:16 style: align icons in header
+2025-03-20T13:04:52 docs: note follow-ups
