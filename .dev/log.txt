@@ -78,3 +78,4 @@
 2025-03-21T11:48:45 test: cover empty-state rendering
 2025-03-24T10:50:26 wip: sketch dashboard variant
 2025-03-24T12:42:31 style: nudge avatar size
+2025-03-24T15:08:20 chore: cleanup dead code
