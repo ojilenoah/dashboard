@@ -83,3 +83,4 @@
 2025-03-25T15:16:42 feat: try alternate animation
 2025-03-26T10:37:01 chore: cleanup dead code
 2025-03-26T15:00:33 docs: note follow-ups
+2025-03-26T16:03:59 docs: clarify setup steps
