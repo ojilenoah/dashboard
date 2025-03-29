@@ -86,3 +86,4 @@
 2025-03-26T16:03:59 docs: clarify setup steps
 2025-03-27T14:33:03 docs: clarify setup steps
 2025-03-28T13:08:04 feat: explore chart variant
+2025-03-28T15:20:27 refactor: pull constants to module top
