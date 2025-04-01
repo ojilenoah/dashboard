@@ -90,3 +90,4 @@
 2025-03-31T14:50:17 style: tighten spacing on cards
 2025-03-31T14:54:24 refactor: pull constants to module top
 2025-03-31T21:51:51 refactor: collapse duplicate branches
+2025-03-31T23:48:34 docs: add inline notes
