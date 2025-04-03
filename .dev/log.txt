@@ -94,3 +94,4 @@
 2025-04-01T18:26:12 chore: rename internal symbol
 2025-04-02T15:38:10 feat: scaffold new section
 2025-04-03T11:55:54 refactor: extract shared helper
+2025-04-03T11:56:10 test: snapshot edge case
