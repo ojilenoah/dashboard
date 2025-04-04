@@ -96,3 +96,4 @@
 2025-04-03T11:55:54 refactor: extract shared helper
 2025-04-03T11:56:10 test: snapshot edge case
 2025-04-03T14:16:10 refactor: simplify state derivation
+2025-04-03T23:52:56 chore: rename internal symbol
