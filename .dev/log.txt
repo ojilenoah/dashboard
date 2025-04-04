@@ -95,3 +95,4 @@
 2025-04-02T15:38:10 feat: scaffold new section
 2025-04-03T11:55:54 refactor: extract shared helper
 2025-04-03T11:56:10 test: snapshot edge case
+2025-04-03T14:16:10 refactor: simplify state derivation
