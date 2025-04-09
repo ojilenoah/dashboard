@@ -102,3 +102,4 @@
 2025-04-04T17:06:03 chore: rename internal symbol
 2025-04-07T19:46:06 chore: update local notes
 2025-04-07T19:54:03 docs: clarify setup steps
+2025-04-08T16:54:22 fix: handle edge case in date parsing
