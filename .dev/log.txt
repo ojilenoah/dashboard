@@ -114,3 +114,4 @@
 2025-04-14T15:37:17 docs: note follow-ups
 2025-04-14T15:49:10 feat: prototype filter UI
 2025-04-15T17:47:27 feat: explore chart variant
+2025-04-15T18:47:12 feat: prototype filter UI
