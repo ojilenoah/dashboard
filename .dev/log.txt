@@ -118,3 +118,4 @@
 2025-04-17T13:20:01 fix: ensure consistent ring color
 2025-04-17T14:10:56 refactor: simplify state derivation
 2025-04-17T15:36:58 refactor: pull constants to module top
+2025-04-17T16:09:21 docs: add inline notes
