@@ -120,3 +120,4 @@
 2025-04-17T15:36:58 refactor: pull constants to module top
 2025-04-17T16:09:21 docs: add inline notes
 2025-04-17T16:56:56 refactor: extract shared helper
+2025-04-17T18:35:20 perf: skip redundant render
