@@ -123,3 +123,4 @@
 2025-04-17T18:35:20 perf: skip redundant render
 2025-04-18T16:27:18 chore: rename internal symbol
 2025-04-18T18:36:10 fix: typo in component name
+2025-04-20T19:04:13 fix: ensure consistent ring color
