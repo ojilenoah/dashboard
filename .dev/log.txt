@@ -126,3 +126,4 @@
 2025-04-20T19:04:13 fix: ensure consistent ring color
 2025-04-21T10:46:03 perf: skip redundant render
 2025-04-21T16:04:36 docs: clarify setup steps
+2025-04-22T10:22:18 feat: explore chart variant
