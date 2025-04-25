@@ -130,3 +130,4 @@
 2025-04-22T10:30:12 docs: note follow-ups
 2025-04-23T15:21:40 fix: respect reduced-motion preference
 2025-04-23T15:56:12 feat: scaffold new section
+2025-04-24T18:45:16 test: cover empty-state rendering
