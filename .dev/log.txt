@@ -133,3 +133,4 @@
 2025-04-24T18:45:16 test: cover empty-state rendering
 2025-04-25T13:30:59 perf: skip redundant render
 2025-04-25T14:47:05 refactor: extract shared helper
+2025-04-25T15:23:04 test: cover empty-state rendering
