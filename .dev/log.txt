@@ -137,3 +137,4 @@
 2025-04-28T19:45:44 refactor: pull constants to module top
 2025-04-29T14:44:05 perf: skip redundant render
 2025-04-29T18:32:53 fix: ensure consistent ring color
+2025-04-30T19:27:51 perf: memoize derived value
