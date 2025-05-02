@@ -141,3 +141,4 @@
 2025-05-01T14:20:38 perf: skip redundant render
 2025-05-01T16:35:04 docs: note follow-ups
 2025-05-02T09:18:32 refactor: simplify state derivation
+2025-05-02T11:44:46 refactor: pull constants to module top
