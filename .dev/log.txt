@@ -143,3 +143,4 @@
 2025-05-02T09:18:32 refactor: simplify state derivation
 2025-05-02T11:44:46 refactor: pull constants to module top
 2025-05-02T14:35:33 feat: prototype filter UI
+2025-05-03T15:52:20 docs: note follow-ups
