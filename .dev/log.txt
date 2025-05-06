@@ -146,3 +146,4 @@
 2025-05-03T15:52:20 docs: note follow-ups
 2025-05-04T17:45:44 feat: try alternate animation
 2025-05-06T09:02:12 chore: rename internal symbol
+2025-05-06T09:52:23 feat: explore chart variant
