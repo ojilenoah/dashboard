@@ -145,3 +145,4 @@
 2025-05-02T14:35:33 feat: prototype filter UI
 2025-05-03T15:52:20 docs: note follow-ups
 2025-05-04T17:45:44 feat: try alternate animation
+2025-05-06T09:02:12 chore: rename internal symbol
