@@ -148,3 +148,4 @@
 2025-05-06T09:02:12 chore: rename internal symbol
 2025-05-06T09:52:23 feat: explore chart variant
 2025-05-06T13:18:47 feat: explore chart variant
+2025-05-06T21:46:18 fix: respect reduced-motion preference
