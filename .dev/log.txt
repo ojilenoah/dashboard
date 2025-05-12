@@ -154,3 +154,4 @@
 2025-05-09T09:41:50 perf: memoize derived value
 2025-05-09T13:09:57 fix: handle edge case in date parsing
 2025-05-09T17:47:02 test: cover empty-state rendering
+2025-05-11T15:59:31 style: align icons in header
