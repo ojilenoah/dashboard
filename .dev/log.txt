@@ -158,3 +158,4 @@
 2025-05-12T19:18:45 style: tighten spacing on cards
 2025-05-13T15:39:19 docs: note follow-ups
 2025-05-13T23:25:54 feat: prototype filter UI
+2025-05-14T11:08:25 refactor: extract shared helper
