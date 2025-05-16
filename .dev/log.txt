@@ -160,3 +160,4 @@
 2025-05-13T23:25:54 feat: prototype filter UI
 2025-05-14T11:08:25 refactor: extract shared helper
 2025-05-15T12:49:17 chore: cleanup dead code
+2025-05-16T10:06:33 chore: cleanup dead code
