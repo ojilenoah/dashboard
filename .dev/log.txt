@@ -162,3 +162,4 @@
 2025-05-15T12:49:17 chore: cleanup dead code
 2025-05-16T10:06:33 chore: cleanup dead code
 2025-05-16T12:00:41 docs: note follow-ups
+2025-05-16T12:40:52 docs: clarify setup steps
