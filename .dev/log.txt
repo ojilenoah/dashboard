@@ -169,3 +169,4 @@
 2025-05-19T17:36:39 docs: add inline notes
 2025-05-21T14:21:35 chore: update local notes
 2025-05-23T09:15:31 chore: cleanup dead code
+2025-05-23T09:30:47 chore: rename internal symbol
