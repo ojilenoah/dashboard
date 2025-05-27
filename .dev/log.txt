@@ -176,3 +176,4 @@
 2025-05-23T16:52:51 fix: ensure consistent ring color
 2025-05-23T19:53:46 docs: add inline notes
 2025-05-26T10:42:07 chore: cleanup dead code
+2025-05-26T13:31:09 docs: add inline notes
