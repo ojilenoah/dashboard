@@ -179,3 +179,4 @@
 2025-05-26T13:31:09 docs: add inline notes
 2025-05-27T10:59:29 fix: respect reduced-motion preference
 2025-05-27T11:34:10 feat: explore chart variant
+2025-05-28T13:29:53 fix: typo in component name
