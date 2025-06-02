@@ -182,3 +182,4 @@
 2025-05-28T13:29:53 fix: typo in component name
 2025-05-28T18:04:10 test: cover empty-state rendering
 2025-05-29T18:04:19 wip: sketch dashboard variant
+2025-06-02T11:51:28 perf: memoize derived value
