@@ -184,3 +184,4 @@
 2025-05-29T18:04:19 wip: sketch dashboard variant
 2025-06-02T11:51:28 perf: memoize derived value
 2025-06-03T13:10:05 refactor: simplify state derivation
+2025-06-03T13:12:51 chore: cleanup dead code
