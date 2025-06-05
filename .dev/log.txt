@@ -187,3 +187,4 @@
 2025-06-03T13:12:51 chore: cleanup dead code
 2025-06-03T13:49:20 perf: memoize derived value
 2025-06-03T17:08:44 docs: add inline notes
+2025-06-04T16:03:13 feat: explore chart variant
