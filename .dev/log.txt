@@ -190,3 +190,4 @@
 2025-06-04T16:03:13 feat: explore chart variant
 2025-06-05T10:56:19 feat: try alternate animation
 2025-06-06T13:38:38 feat: try alternate animation
+2025-06-06T13:55:35 refactor: pull constants to module top
