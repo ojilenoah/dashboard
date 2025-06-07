@@ -191,3 +191,4 @@
 2025-06-05T10:56:19 feat: try alternate animation
 2025-06-06T13:38:38 feat: try alternate animation
 2025-06-06T13:55:35 refactor: pull constants to module top
+2025-06-06T16:32:38 refactor: simplify state derivation
