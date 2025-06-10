@@ -196,3 +196,4 @@
 2025-06-07T16:49:20 chore: tidy up imports
 2025-06-08T18:33:34 feat: explore chart variant
 2025-06-09T10:55:33 feat: prototype filter UI
+2025-06-09T14:21:05 feat: prototype filter UI
