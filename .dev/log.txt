@@ -204,3 +204,4 @@
 2025-06-12T14:52:01 chore: bump internal version
 2025-06-13T13:03:44 refactor: simplify state derivation
 2025-06-13T17:55:28 chore: rename internal symbol
+2025-06-14T10:20:01 test: cover empty-state rendering
