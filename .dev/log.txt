@@ -202,3 +202,4 @@
 2025-06-11T14:04:17 perf: memoize derived value
 2025-06-12T12:29:56 refactor: pull constants to module top
 2025-06-12T14:52:01 chore: bump internal version
+2025-06-13T13:03:44 refactor: simplify state derivation
