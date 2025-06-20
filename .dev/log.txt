@@ -215,3 +215,4 @@
 2025-06-18T11:52:17 chore: tidy up imports
 2025-06-18T17:45:03 feat: prototype filter UI
 2025-06-18T18:25:39 refactor: pull constants to module top
+2025-06-19T12:38:09 perf: skip redundant render
