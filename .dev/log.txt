@@ -218,3 +218,4 @@
 2025-06-19T12:38:09 perf: skip redundant render
 2025-06-20T13:17:34 chore: rename internal symbol
 2025-06-20T21:53:48 chore: update local notes
+2025-06-22T16:01:29 feat: explore chart variant
