@@ -224,3 +224,4 @@
 2025-06-23T13:21:10 fix: respect reduced-motion preference
 2025-06-23T14:47:13 refactor: collapse duplicate branches
 2025-06-23T15:48:11 refactor: simplify state derivation
+2025-06-23T16:16:19 docs: clarify setup steps
