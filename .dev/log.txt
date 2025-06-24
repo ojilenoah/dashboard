@@ -220,3 +220,4 @@
 2025-06-20T21:53:48 chore: update local notes
 2025-06-22T16:01:29 feat: explore chart variant
 2025-06-23T11:18:47 wip: experiment with layout tweaks
+2025-06-23T13:19:39 perf: skip redundant render
