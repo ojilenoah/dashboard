@@ -228,3 +228,4 @@
 2025-06-23T16:51:18 docs: clarify setup steps
 2025-06-24T12:47:38 test: snapshot edge case
 2025-06-24T23:33:11 chore: rename internal symbol
+2025-06-25T18:31:46 chore: minor housekeeping
