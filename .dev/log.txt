@@ -236,3 +236,4 @@
 2025-06-27T17:21:19 wip: sketch dashboard variant
 2025-06-28T11:00:28 fix: handle edge case in date parsing
 2025-06-28T13:33:22 chore: rename internal symbol
+2025-06-29T15:25:18 fix: handle edge case in date parsing
