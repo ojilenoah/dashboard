@@ -242,3 +242,4 @@
 2025-06-29T16:59:10 feat: try alternate animation
 2025-06-29T18:36:54 wip: sketch dashboard variant
 2025-06-29T19:24:03 refactor: simplify state derivation
+2025-06-30T16:46:57 wip: experiment with layout tweaks
