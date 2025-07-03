@@ -245,3 +245,4 @@
 2025-06-30T16:46:57 wip: experiment with layout tweaks
 2025-06-30T18:36:14 chore: update local notes
 2025-07-01T21:28:05 wip: experiment with layout tweaks
+2025-07-02T14:39:58 fix: handle edge case in date parsing
