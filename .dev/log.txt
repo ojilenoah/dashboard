@@ -247,3 +247,4 @@
 2025-07-01T21:28:05 wip: experiment with layout tweaks
 2025-07-02T14:39:58 fix: handle edge case in date parsing
 2025-07-02T17:33:20 chore: rename internal symbol
+2025-07-02T21:17:46 feat: explore chart variant
