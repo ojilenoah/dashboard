@@ -250,3 +250,4 @@
 2025-07-02T21:17:46 feat: explore chart variant
 2025-07-03T16:03:20 chore: minor housekeeping
 2025-07-03T16:26:03 style: align icons in header
+2025-07-06T10:12:01 style: align icons in header
