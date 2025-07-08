@@ -254,3 +254,4 @@
 2025-07-07T11:29:08 style: align icons in header
 2025-07-07T14:42:24 feat: prototype filter UI
 2025-07-07T15:56:06 feat: try alternate animation
+2025-07-08T10:32:38 docs: clarify setup steps
