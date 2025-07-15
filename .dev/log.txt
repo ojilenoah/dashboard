@@ -262,3 +262,4 @@
 2025-07-13T21:33:34 perf: memoize derived value
 2025-07-14T13:38:05 docs: note follow-ups
 2025-07-14T15:23:02 chore: tidy up imports
+2025-07-14T16:12:06 chore: cleanup dead code
