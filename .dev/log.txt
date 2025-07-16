@@ -263,3 +263,4 @@
 2025-07-14T13:38:05 docs: note follow-ups
 2025-07-14T15:23:02 chore: tidy up imports
 2025-07-14T16:12:06 chore: cleanup dead code
+2025-07-15T15:54:56 feat: explore chart variant
