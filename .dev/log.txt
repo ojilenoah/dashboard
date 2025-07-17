@@ -264,3 +264,4 @@
 2025-07-14T15:23:02 chore: tidy up imports
 2025-07-14T16:12:06 chore: cleanup dead code
 2025-07-15T15:54:56 feat: explore chart variant
+2025-07-16T15:29:42 refactor: extract shared helper
