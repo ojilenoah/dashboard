@@ -267,3 +267,4 @@
 2025-07-16T15:29:42 refactor: extract shared helper
 2025-07-17T18:40:41 wip: sketch dashboard variant
 2025-07-17T18:45:44 test: cover empty-state rendering
+2025-07-17T18:54:09 chore: update local notes
