@@ -276,3 +276,4 @@
 2025-07-23T12:00:34 wip: sketch dashboard variant
 2025-07-23T13:39:25 perf: memoize derived value
 2025-07-24T12:23:41 docs: add inline notes
+2025-07-24T15:57:30 refactor: collapse duplicate branches
