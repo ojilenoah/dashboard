@@ -285,3 +285,4 @@
 2025-07-26T12:26:49 fix: handle edge case in date parsing
 2025-07-26T13:43:46 perf: skip redundant render
 2025-07-26T13:48:37 docs: add inline notes
+2025-07-26T14:05:45 chore: cleanup dead code
