@@ -291,3 +291,4 @@
 2025-07-28T16:19:32 chore: cleanup dead code
 2025-07-28T16:29:05 feat: prototype filter UI
 2025-07-28T21:27:46 perf: skip redundant render
+2025-07-29T18:53:25 chore: bump internal version
