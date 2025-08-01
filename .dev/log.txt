@@ -292,3 +292,4 @@
 2025-07-28T16:29:05 feat: prototype filter UI
 2025-07-28T21:27:46 perf: skip redundant render
 2025-07-29T18:53:25 chore: bump internal version
+2025-07-31T14:38:50 chore: bump internal version
