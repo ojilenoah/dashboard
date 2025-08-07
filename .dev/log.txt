@@ -299,3 +299,4 @@
 2025-08-05T21:21:43 docs: add inline notes
 2025-08-06T13:22:36 fix: handle edge case in date parsing
 2025-08-06T21:32:15 chore: update local notes
+2025-08-06T23:40:41 feat: explore chart variant
