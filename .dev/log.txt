@@ -302,3 +302,4 @@
 2025-08-06T23:40:41 feat: explore chart variant
 2025-08-07T13:53:46 refactor: extract shared helper
 2025-08-07T14:23:28 fix: ensure consistent ring color
+2025-08-07T18:26:21 fix: handle edge case in date parsing
