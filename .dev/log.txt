@@ -304,3 +304,4 @@
 2025-08-07T14:23:28 fix: ensure consistent ring color
 2025-08-07T18:26:21 fix: handle edge case in date parsing
 2025-08-08T13:05:39 wip: sketch dashboard variant
+2025-08-08T14:07:16 refactor: extract shared helper
