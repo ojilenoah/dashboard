@@ -311,3 +311,4 @@
 2025-08-11T16:36:25 perf: skip redundant render
 2025-08-11T17:35:59 docs: clarify setup steps
 2025-08-12T10:44:32 feat: prototype filter UI
+2025-08-12T11:28:44 chore: update local notes
