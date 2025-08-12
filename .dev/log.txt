@@ -308,3 +308,4 @@
 2025-08-08T21:27:07 chore: minor housekeeping
 2025-08-10T10:50:50 refactor: collapse duplicate branches
 2025-08-11T09:01:33 refactor: extract shared helper
+2025-08-11T16:36:25 perf: skip redundant render
