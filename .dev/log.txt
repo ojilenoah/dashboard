@@ -313,3 +313,4 @@
 2025-08-12T10:44:32 feat: prototype filter UI
 2025-08-12T11:28:44 chore: update local notes
 2025-08-12T11:48:27 refactor: simplify state derivation
+2025-08-12T13:29:44 chore: bump internal version
