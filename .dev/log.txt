@@ -321,3 +321,4 @@
 2025-08-13T15:08:59 chore: cleanup dead code
 2025-08-14T10:18:19 fix: typo in component name
 2025-08-14T10:36:12 chore: rename internal symbol
+2025-08-14T13:48:32 docs: clarify setup steps
