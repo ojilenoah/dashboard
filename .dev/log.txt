@@ -328,3 +328,4 @@
 2025-08-19T17:05:54 wip: experiment with layout tweaks
 2025-08-20T10:22:31 chore: minor housekeeping
 2025-08-20T11:47:50 fix: ensure consistent ring color
+2025-08-20T17:50:18 chore: rename internal symbol
