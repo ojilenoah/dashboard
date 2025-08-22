@@ -330,3 +330,4 @@
 2025-08-20T11:47:50 fix: ensure consistent ring color
 2025-08-20T17:50:18 chore: rename internal symbol
 2025-08-20T18:58:45 style: tighten spacing on cards
+2025-08-21T15:04:40 fix: ensure consistent ring color
