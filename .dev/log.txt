@@ -332,3 +332,4 @@
 2025-08-20T18:58:45 style: tighten spacing on cards
 2025-08-21T15:04:40 fix: ensure consistent ring color
 2025-08-22T19:43:25 fix: handle edge case in date parsing
+2025-08-22T19:56:35 docs: add inline notes
