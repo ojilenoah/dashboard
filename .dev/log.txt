@@ -334,3 +334,4 @@
 2025-08-22T19:43:25 fix: handle edge case in date parsing
 2025-08-22T19:56:35 docs: add inline notes
 2025-08-24T19:56:43 wip: experiment with layout tweaks
+2025-08-26T13:47:58 test: snapshot edge case
