@@ -339,3 +339,4 @@
 2025-08-27T11:09:22 feat: prototype filter UI
 2025-08-27T15:20:31 refactor: extract shared helper
 2025-08-27T16:45:31 test: snapshot edge case
+2025-08-27T23:07:13 fix: handle edge case in date parsing
