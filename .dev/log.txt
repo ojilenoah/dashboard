@@ -337,3 +337,4 @@
 2025-08-26T13:47:58 test: snapshot edge case
 2025-08-26T23:52:08 perf: memoize derived value
 2025-08-27T11:09:22 feat: prototype filter UI
+2025-08-27T15:20:31 refactor: extract shared helper
