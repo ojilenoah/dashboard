@@ -343,3 +343,4 @@
 2025-08-28T14:21:09 chore: update local notes
 2025-08-29T17:00:05 docs: note follow-ups
 2025-08-29T17:32:20 refactor: extract shared helper
+2025-09-01T21:57:20 feat: explore chart variant
