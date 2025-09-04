@@ -345,3 +345,4 @@
 2025-08-29T17:32:20 refactor: extract shared helper
 2025-09-01T21:57:20 feat: explore chart variant
 2025-09-02T11:22:08 docs: add inline notes
+2025-09-04T10:36:32 fix: ensure consistent ring color
