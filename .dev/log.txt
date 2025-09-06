@@ -350,3 +350,4 @@
 2025-09-04T17:55:06 feat: scaffold new section
 2025-09-05T13:53:24 refactor: simplify state derivation
 2025-09-05T13:58:37 fix: ensure consistent ring color
+2025-09-05T14:11:21 fix: respect reduced-motion preference
