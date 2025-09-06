@@ -349,3 +349,4 @@
 2025-09-04T16:07:14 chore: cleanup dead code
 2025-09-04T17:55:06 feat: scaffold new section
 2025-09-05T13:53:24 refactor: simplify state derivation
+2025-09-05T13:58:37 fix: ensure consistent ring color
