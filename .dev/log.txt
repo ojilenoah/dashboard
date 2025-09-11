@@ -355,3 +355,4 @@
 2025-09-08T14:24:09 fix: handle edge case in date parsing
 2025-09-10T14:01:39 fix: typo in component name
 2025-09-10T17:05:00 fix: respect reduced-motion preference
+2025-09-10T21:12:43 perf: skip redundant render
