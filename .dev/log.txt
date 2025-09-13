@@ -356,3 +356,4 @@
 2025-09-10T14:01:39 fix: typo in component name
 2025-09-10T17:05:00 fix: respect reduced-motion preference
 2025-09-10T21:12:43 perf: skip redundant render
+2025-09-12T16:25:29 style: align icons in header
