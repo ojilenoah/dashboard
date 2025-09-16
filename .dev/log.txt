@@ -359,3 +359,4 @@
 2025-09-12T16:25:29 style: align icons in header
 2025-09-15T10:50:09 fix: respect reduced-motion preference
 2025-09-15T13:48:03 refactor: collapse duplicate branches
+2025-09-15T14:11:31 fix: typo in component name
