@@ -363,3 +363,4 @@
 2025-09-15T16:36:11 docs: clarify setup steps
 2025-09-16T16:57:28 feat: explore chart variant
 2025-09-16T18:41:48 wip: experiment with layout tweaks
+2025-09-17T15:52:38 refactor: collapse duplicate branches
