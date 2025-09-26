@@ -369,3 +369,4 @@
 2025-09-23T19:14:46 wip: experiment with layout tweaks
 2025-09-25T15:01:56 chore: tidy up imports
 2025-09-25T15:53:00 chore: update local notes
+2025-09-26T10:32:35 docs: add inline notes
