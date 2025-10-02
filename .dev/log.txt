@@ -375,3 +375,4 @@
 2025-09-28T16:43:38 wip: sketch dashboard variant
 2025-09-30T17:01:51 chore: update local notes
 2025-09-30T17:06:53 docs: add inline notes
+2025-10-02T10:02:15 feat: scaffold new section
