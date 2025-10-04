@@ -379,3 +379,4 @@
 2025-10-02T16:52:45 refactor: simplify state derivation
 2025-10-02T21:51:15 refactor: pull constants to module top
 2025-10-03T12:46:36 feat: scaffold new section
+2025-10-03T15:50:17 refactor: collapse duplicate branches
