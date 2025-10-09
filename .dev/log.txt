@@ -389,3 +389,4 @@
 2025-10-06T16:55:28 chore: bump internal version
 2025-10-06T18:49:41 docs: clarify setup steps
 2025-10-07T10:23:12 style: tighten spacing on cards
+2025-10-09T10:13:52 docs: add inline notes
