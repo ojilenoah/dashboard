@@ -391,3 +391,4 @@
 2025-10-07T10:23:12 style: tighten spacing on cards
 2025-10-09T10:13:52 docs: add inline notes
 2025-10-09T11:02:58 feat: explore chart variant
+2025-10-09T14:31:01 style: nudge avatar size
