@@ -398,3 +398,4 @@
 2025-10-11T17:12:24 feat: scaffold new section
 2025-10-13T09:09:29 chore: minor housekeeping
 2025-10-13T15:01:38 feat: explore chart variant
+2025-10-13T15:54:21 perf: memoize derived value
