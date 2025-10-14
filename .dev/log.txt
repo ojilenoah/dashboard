@@ -397,3 +397,4 @@
 2025-10-10T21:12:38 chore: bump internal version
 2025-10-11T17:12:24 feat: scaffold new section
 2025-10-13T09:09:29 chore: minor housekeeping
+2025-10-13T15:01:38 feat: explore chart variant
