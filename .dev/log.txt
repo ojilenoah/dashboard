@@ -403,3 +403,4 @@
 2025-10-14T12:23:26 feat: try alternate animation
 2025-10-14T17:39:19 wip: experiment with layout tweaks
 2025-10-15T10:13:32 fix: handle edge case in date parsing
+2025-10-15T13:42:48 docs: clarify setup steps
