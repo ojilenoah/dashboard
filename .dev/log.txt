@@ -407,3 +407,4 @@
 2025-10-15T14:38:37 wip: sketch dashboard variant
 2025-10-15T16:21:09 style: nudge avatar size
 2025-10-15T18:47:40 docs: add inline notes
+2025-10-15T19:00:00 feat: try alternate animation
