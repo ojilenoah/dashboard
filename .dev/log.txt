@@ -406,3 +406,4 @@
 2025-10-15T13:42:48 docs: clarify setup steps
 2025-10-15T14:38:37 wip: sketch dashboard variant
 2025-10-15T16:21:09 style: nudge avatar size
+2025-10-15T18:47:40 docs: add inline notes
