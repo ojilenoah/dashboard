@@ -410,3 +410,4 @@
 2025-10-15T19:00:00 feat: try alternate animation
 2025-10-15T19:40:10 perf: memoize derived value
 2025-10-15T23:20:49 feat: prototype filter UI
+2025-10-20T09:57:30 docs: add inline notes
