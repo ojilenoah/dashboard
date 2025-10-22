@@ -414,3 +414,4 @@
 2025-10-21T14:05:11 perf: skip redundant render
 2025-10-21T14:15:38 chore: tidy up imports
 2025-10-21T16:23:42 feat: explore chart variant
+2025-10-21T17:38:04 test: cover empty-state rendering
