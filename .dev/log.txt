@@ -417,3 +417,4 @@
 2025-10-21T17:38:04 test: cover empty-state rendering
 2025-10-22T10:23:15 chore: bump internal version
 2025-10-22T11:15:36 fix: handle edge case in date parsing
+2025-10-22T14:44:07 fix: ensure consistent ring color
