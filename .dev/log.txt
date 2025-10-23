@@ -419,3 +419,4 @@
 2025-10-22T11:15:36 fix: handle edge case in date parsing
 2025-10-22T14:44:07 fix: ensure consistent ring color
 2025-10-22T18:21:03 refactor: simplify state derivation
+2025-10-23T10:58:24 wip: sketch dashboard variant
