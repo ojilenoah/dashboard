@@ -428,3 +428,4 @@
 2025-10-27T12:48:59 fix: typo in component name
 2025-10-28T17:00:55 chore: bump internal version
 2025-10-29T09:45:27 chore: bump internal version
+2025-10-29T16:32:25 refactor: collapse duplicate branches
