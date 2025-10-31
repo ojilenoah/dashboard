@@ -431,3 +431,4 @@
 2025-10-29T16:32:25 refactor: collapse duplicate branches
 2025-10-29T21:46:16 wip: experiment with layout tweaks
 2025-10-30T11:54:28 feat: try alternate animation
+2025-10-30T12:04:53 chore: minor housekeeping
