@@ -434,3 +434,4 @@
 2025-10-30T12:04:53 chore: minor housekeeping
 2025-10-30T14:39:11 chore: rename internal symbol
 2025-10-31T13:26:11 docs: add inline notes
+2025-10-31T16:25:17 fix: ensure consistent ring color
