@@ -433,3 +433,4 @@
 2025-10-30T11:54:28 feat: try alternate animation
 2025-10-30T12:04:53 chore: minor housekeeping
 2025-10-30T14:39:11 chore: rename internal symbol
+2025-10-31T13:26:11 docs: add inline notes
