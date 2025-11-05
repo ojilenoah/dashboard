@@ -440,3 +440,4 @@
 2025-11-04T13:37:09 chore: minor housekeeping
 2025-11-04T13:47:43 wip: experiment with layout tweaks
 2025-11-04T14:33:26 fix: respect reduced-motion preference
+2025-11-04T16:36:10 chore: update local notes
