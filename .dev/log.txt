@@ -437,3 +437,4 @@
 2025-10-31T16:25:17 fix: ensure consistent ring color
 2025-11-01T10:32:38 chore: rename internal symbol
 2025-11-01T16:00:02 refactor: collapse duplicate branches
+2025-11-04T13:37:09 chore: minor housekeeping
