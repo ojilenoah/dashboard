@@ -444,3 +444,4 @@
 2025-11-05T17:13:25 style: align icons in header
 2025-11-05T19:43:32 fix: ensure consistent ring color
 2025-11-05T23:32:41 chore: bump internal version
+2025-11-06T11:00:53 refactor: simplify state derivation
