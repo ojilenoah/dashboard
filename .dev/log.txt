@@ -449,3 +449,4 @@
 2025-11-07T17:58:51 chore: tidy up imports
 2025-11-08T09:18:33 feat: prototype filter UI
 2025-11-11T12:26:54 fix: respect reduced-motion preference
+2025-11-11T15:46:20 wip: sketch dashboard variant
