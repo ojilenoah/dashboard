@@ -454,3 +454,4 @@
 2025-11-12T14:24:53 chore: rename internal symbol
 2025-11-12T14:28:13 perf: memoize derived value
 2025-11-12T14:32:59 test: cover empty-state rendering
+2025-11-12T14:34:21 fix: respect reduced-motion preference
