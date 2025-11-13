@@ -453,3 +453,4 @@
 2025-11-12T11:32:36 refactor: extract shared helper
 2025-11-12T14:24:53 chore: rename internal symbol
 2025-11-12T14:28:13 perf: memoize derived value
+2025-11-12T14:32:59 test: cover empty-state rendering
