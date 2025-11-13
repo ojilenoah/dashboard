@@ -457,3 +457,4 @@
 2025-11-12T14:34:21 fix: respect reduced-motion preference
 2025-11-13T10:28:31 chore: minor housekeeping
 2025-11-13T11:41:25 chore: cleanup dead code
+2025-11-13T11:48:22 fix: handle edge case in date parsing
