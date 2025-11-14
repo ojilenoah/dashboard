@@ -459,3 +459,4 @@
 2025-11-13T11:41:25 chore: cleanup dead code
 2025-11-13T11:48:22 fix: handle edge case in date parsing
 2025-11-13T13:45:16 fix: typo in component name
+2025-11-13T14:20:32 feat: try alternate animation
