@@ -470,3 +470,4 @@
 2025-11-18T13:48:45 fix: handle edge case in date parsing
 2025-11-18T17:52:56 style: nudge avatar size
 2025-11-18T18:26:52 wip: experiment with layout tweaks
+2025-11-18T21:30:29 chore: rename internal symbol
