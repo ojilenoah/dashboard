@@ -468,3 +468,4 @@
 2025-11-18T10:10:39 feat: try alternate animation
 2025-11-18T10:11:05 chore: cleanup dead code
 2025-11-18T13:48:45 fix: handle edge case in date parsing
+2025-11-18T17:52:56 style: nudge avatar size
