@@ -474,3 +474,4 @@
 2025-11-19T09:00:22 wip: experiment with layout tweaks
 2025-11-19T11:12:48 chore: tidy up imports
 2025-11-19T23:32:02 perf: skip redundant render
+2025-11-20T10:06:50 style: align icons in header
