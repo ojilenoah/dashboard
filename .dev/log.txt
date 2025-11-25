@@ -479,3 +479,4 @@
 2025-11-23T17:36:54 perf: memoize derived value
 2025-11-24T13:17:49 fix: respect reduced-motion preference
 2025-11-24T13:51:38 fix: typo in component name
+2025-11-24T14:06:51 fix: respect reduced-motion preference
