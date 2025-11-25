@@ -477,3 +477,4 @@
 2025-11-20T10:06:50 style: align icons in header
 2025-11-20T15:42:51 feat: explore chart variant
 2025-11-23T17:36:54 perf: memoize derived value
+2025-11-24T13:17:49 fix: respect reduced-motion preference
