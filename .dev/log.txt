@@ -484,3 +484,4 @@
 2025-11-25T16:01:54 docs: note follow-ups
 2025-11-25T21:37:10 wip: experiment with layout tweaks
 2025-11-28T09:48:28 perf: skip redundant render
+2025-11-29T14:35:31 perf: memoize derived value
