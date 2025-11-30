@@ -486,3 +486,4 @@
 2025-11-28T09:48:28 perf: skip redundant render
 2025-11-29T14:35:31 perf: memoize derived value
 2025-11-29T16:12:09 perf: memoize derived value
+2025-11-30T11:30:04 feat: explore chart variant
