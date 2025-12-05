@@ -498,3 +498,4 @@
 2025-12-04T12:06:52 refactor: extract shared helper
 2025-12-04T16:28:31 refactor: collapse duplicate branches
 2025-12-04T19:46:29 feat: prototype filter UI
+2025-12-05T11:06:08 feat: prototype filter UI
