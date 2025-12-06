@@ -502,3 +502,4 @@
 2025-12-05T12:24:15 style: tighten spacing on cards
 2025-12-06T09:23:34 chore: minor housekeeping
 2025-12-06T09:56:36 style: nudge avatar size
+2025-12-06T11:00:01 wip: sketch dashboard variant
