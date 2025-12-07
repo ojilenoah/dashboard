@@ -505,3 +505,4 @@
 2025-12-06T11:00:01 wip: sketch dashboard variant
 2025-12-06T11:54:26 wip: sketch dashboard variant
 2025-12-06T13:32:26 docs: add inline notes
+2025-12-06T17:30:59 fix: handle edge case in date parsing
