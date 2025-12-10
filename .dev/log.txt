@@ -510,3 +510,4 @@
 2025-12-07T10:19:48 test: snapshot edge case
 2025-12-08T15:42:20 chore: minor housekeeping
 2025-12-09T10:10:16 docs: add inline notes
+2025-12-09T14:22:10 fix: handle edge case in date parsing
