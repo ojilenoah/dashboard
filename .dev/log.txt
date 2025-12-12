@@ -513,3 +513,4 @@
 2025-12-09T14:22:10 fix: handle edge case in date parsing
 2025-12-10T15:33:55 docs: add inline notes
 2025-12-11T17:13:58 style: nudge avatar size
+2025-12-12T10:44:59 style: align icons in header
