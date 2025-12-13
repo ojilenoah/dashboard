@@ -514,3 +514,4 @@
 2025-12-10T15:33:55 docs: add inline notes
 2025-12-11T17:13:58 style: nudge avatar size
 2025-12-12T10:44:59 style: align icons in header
+2025-12-12T14:42:44 fix: respect reduced-motion preference
