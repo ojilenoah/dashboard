@@ -515,3 +515,4 @@
 2025-12-11T17:13:58 style: nudge avatar size
 2025-12-12T10:44:59 style: align icons in header
 2025-12-12T14:42:44 fix: respect reduced-motion preference
+2025-12-12T21:48:48 chore: bump internal version
