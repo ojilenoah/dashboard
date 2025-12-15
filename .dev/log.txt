@@ -518,3 +518,4 @@
 2025-12-12T21:48:48 chore: bump internal version
 2025-12-13T19:31:12 docs: note follow-ups
 2025-12-15T10:26:33 docs: add inline notes
+2025-12-15T11:54:22 refactor: simplify state derivation
