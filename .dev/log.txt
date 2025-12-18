@@ -525,3 +525,4 @@
 2025-12-16T17:07:43 feat: prototype filter UI
 2025-12-17T09:01:15 feat: prototype filter UI
 2025-12-17T15:25:29 chore: update local notes
+2025-12-18T10:55:41 wip: sketch dashboard variant
