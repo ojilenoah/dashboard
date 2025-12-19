@@ -528,3 +528,4 @@
 2025-12-18T10:55:41 wip: sketch dashboard variant
 2025-12-18T12:49:21 fix: typo in component name
 2025-12-18T16:16:17 docs: note follow-ups
+2025-12-19T11:39:55 feat: try alternate animation
