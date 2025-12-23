@@ -530,3 +530,4 @@
 2025-12-18T16:16:17 docs: note follow-ups
 2025-12-19T11:39:55 feat: try alternate animation
 2025-12-19T21:11:27 perf: skip redundant render
+2025-12-22T15:58:47 style: tighten spacing on cards
