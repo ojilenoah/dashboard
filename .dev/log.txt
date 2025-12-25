@@ -536,3 +536,4 @@
 2025-12-24T18:24:14 chore: update local notes
 2025-12-24T21:16:59 chore: rename internal symbol
 2025-12-25T10:07:53 fix: handle edge case in date parsing
+2025-12-25T11:37:08 chore: bump internal version
