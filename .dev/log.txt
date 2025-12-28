@@ -543,3 +543,4 @@
 2025-12-26T15:58:23 fix: respect reduced-motion preference
 2025-12-27T11:00:58 feat: scaffold new section
 2025-12-28T11:19:25 feat: explore chart variant
+2025-12-28T11:48:32 chore: minor housekeeping
