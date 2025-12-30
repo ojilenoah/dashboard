@@ -551,3 +551,4 @@
 2025-12-29T15:00:54 perf: memoize derived value
 2025-12-29T15:30:17 docs: add inline notes
 2025-12-29T16:38:19 wip: experiment with layout tweaks
+2025-12-29T16:42:08 test: snapshot edge case
