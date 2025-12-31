@@ -552,3 +552,4 @@
 2025-12-29T15:30:17 docs: add inline notes
 2025-12-29T16:38:19 wip: experiment with layout tweaks
 2025-12-29T16:42:08 test: snapshot edge case
+2025-12-30T21:56:17 refactor: collapse duplicate branches
