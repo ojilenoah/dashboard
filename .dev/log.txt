@@ -560,3 +560,4 @@
 2026-01-01T13:54:06 refactor: simplify state derivation
 2026-01-01T14:38:40 style: nudge avatar size
 2026-01-01T16:33:54 feat: prototype filter UI
+2026-01-02T11:15:19 feat: prototype filter UI
