@@ -558,3 +558,4 @@
 2026-01-01T12:29:59 wip: sketch dashboard variant
 2026-01-01T12:33:08 refactor: simplify state derivation
 2026-01-01T13:54:06 refactor: simplify state derivation
+2026-01-01T14:38:40 style: nudge avatar size
