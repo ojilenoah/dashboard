@@ -565,3 +565,4 @@
 2026-01-02T15:03:41 perf: memoize derived value
 2026-01-04T17:10:51 docs: clarify setup steps
 2026-01-05T13:53:40 chore: tidy up imports
+2026-01-06T17:08:06 fix: handle edge case in date parsing
