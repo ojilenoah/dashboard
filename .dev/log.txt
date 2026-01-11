@@ -574,3 +574,4 @@
 2026-01-08T17:02:10 style: nudge avatar size
 2026-01-10T12:14:40 docs: add inline notes
 2026-01-10T15:15:36 feat: prototype filter UI
+2026-01-10T15:52:52 chore: minor housekeeping
