@@ -572,3 +572,4 @@
 2026-01-07T21:39:37 feat: try alternate animation
 2026-01-08T11:45:02 test: cover empty-state rendering
 2026-01-08T17:02:10 style: nudge avatar size
+2026-01-10T12:14:40 docs: add inline notes
