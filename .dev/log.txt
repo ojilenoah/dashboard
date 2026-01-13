@@ -582,3 +582,4 @@
 2026-01-11T13:14:20 refactor: collapse duplicate branches
 2026-01-11T15:42:34 perf: memoize derived value
 2026-01-12T10:54:13 refactor: simplify state derivation
+2026-01-12T14:01:46 style: align icons in header
