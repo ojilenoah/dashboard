@@ -584,3 +584,4 @@
 2026-01-12T10:54:13 refactor: simplify state derivation
 2026-01-12T14:01:46 style: align icons in header
 2026-01-12T15:54:04 feat: try alternate animation
+2026-01-13T10:28:20 style: align icons in header
