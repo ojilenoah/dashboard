@@ -589,3 +589,4 @@
 2026-01-14T18:23:58 docs: note follow-ups
 2026-01-16T11:12:44 chore: bump internal version
 2026-01-16T23:58:48 feat: explore chart variant
+2026-01-17T11:36:04 fix: ensure consistent ring color
