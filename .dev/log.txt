@@ -592,3 +592,4 @@
 2026-01-17T11:36:04 fix: ensure consistent ring color
 2026-01-19T09:06:34 refactor: pull constants to module top
 2026-01-19T10:06:26 docs: add inline notes
+2026-01-19T10:30:14 docs: add inline notes
