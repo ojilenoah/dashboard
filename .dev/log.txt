@@ -598,3 +598,4 @@
 2026-01-21T09:13:43 chore: update local notes
 2026-01-21T18:02:50 fix: handle edge case in date parsing
 2026-01-22T10:57:07 chore: minor housekeeping
+2026-01-22T17:37:42 fix: ensure consistent ring color
