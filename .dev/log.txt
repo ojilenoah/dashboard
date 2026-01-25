@@ -600,3 +600,4 @@
 2026-01-22T10:57:07 chore: minor housekeeping
 2026-01-22T17:37:42 fix: ensure consistent ring color
 2026-01-23T14:33:04 refactor: pull constants to module top
+2026-01-24T14:32:30 fix: typo in component name
