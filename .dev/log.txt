@@ -602,3 +602,4 @@
 2026-01-23T14:33:04 refactor: pull constants to module top
 2026-01-24T14:32:30 fix: typo in component name
 2026-01-25T11:34:37 style: align icons in header
+2026-01-26T09:51:20 refactor: extract shared helper
