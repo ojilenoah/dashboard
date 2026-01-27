@@ -603,3 +603,4 @@
 2026-01-24T14:32:30 fix: typo in component name
 2026-01-25T11:34:37 style: align icons in header
 2026-01-26T09:51:20 refactor: extract shared helper
+2026-01-27T11:15:11 refactor: collapse duplicate branches
