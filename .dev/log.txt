@@ -607,3 +607,4 @@
 2026-01-28T11:43:42 feat: explore chart variant
 2026-01-28T16:13:56 feat: scaffold new section
 2026-01-28T17:14:55 chore: bump internal version
+2026-01-29T11:00:35 wip: experiment with layout tweaks
