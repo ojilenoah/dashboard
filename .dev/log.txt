@@ -606,3 +606,4 @@
 2026-01-27T11:15:11 refactor: collapse duplicate branches
 2026-01-28T11:43:42 feat: explore chart variant
 2026-01-28T16:13:56 feat: scaffold new section
+2026-01-28T17:14:55 chore: bump internal version
