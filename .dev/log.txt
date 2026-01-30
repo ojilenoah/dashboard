@@ -610,3 +610,4 @@
 2026-01-29T11:00:35 wip: experiment with layout tweaks
 2026-01-29T15:26:08 feat: explore chart variant
 2026-01-29T17:16:38 test: cover empty-state rendering
+2026-01-29T23:32:42 feat: try alternate animation
