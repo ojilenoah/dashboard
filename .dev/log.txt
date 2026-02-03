@@ -616,3 +616,4 @@
 2026-02-01T15:50:00 feat: scaffold new section
 2026-02-02T13:07:45 refactor: extract shared helper
 2026-02-02T13:41:08 docs: add inline notes
+2026-02-02T14:04:04 chore: tidy up imports
