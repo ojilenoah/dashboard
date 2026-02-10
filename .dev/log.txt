@@ -631,3 +631,4 @@
 2026-02-09T16:14:03 perf: skip redundant render
 2026-02-09T17:26:08 refactor: extract shared helper
 2026-02-09T17:33:48 feat: explore chart variant
+2026-02-09T18:22:03 chore: cleanup dead code
