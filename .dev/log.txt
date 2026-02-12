@@ -638,3 +638,4 @@
 2026-02-11T14:30:10 chore: tidy up imports
 2026-02-11T17:40:09 perf: skip redundant render
 2026-02-11T17:58:45 feat: scaffold new section
+2026-02-11T18:17:12 fix: ensure consistent ring color
