@@ -645,3 +645,4 @@
 2026-02-14T13:08:55 wip: sketch dashboard variant
 2026-02-14T14:37:12 chore: cleanup dead code
 2026-02-14T16:59:33 refactor: simplify state derivation
+2026-02-14T17:55:26 feat: try alternate animation
