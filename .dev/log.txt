@@ -646,3 +646,4 @@
 2026-02-14T14:37:12 chore: cleanup dead code
 2026-02-14T16:59:33 refactor: simplify state derivation
 2026-02-14T17:55:26 feat: try alternate animation
+2026-02-14T18:54:20 style: nudge avatar size
