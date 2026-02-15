@@ -644,3 +644,4 @@
 2026-02-14T09:31:29 refactor: collapse duplicate branches
 2026-02-14T13:08:55 wip: sketch dashboard variant
 2026-02-14T14:37:12 chore: cleanup dead code
+2026-02-14T16:59:33 refactor: simplify state derivation
