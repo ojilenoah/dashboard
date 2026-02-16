@@ -649,3 +649,4 @@
 2026-02-14T18:54:20 style: nudge avatar size
 2026-02-15T12:30:31 style: tighten spacing on cards
 2026-02-15T13:05:20 style: tighten spacing on cards
+2026-02-16T11:45:15 chore: minor housekeeping
