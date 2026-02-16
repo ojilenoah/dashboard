@@ -647,3 +647,4 @@
 2026-02-14T16:59:33 refactor: simplify state derivation
 2026-02-14T17:55:26 feat: try alternate animation
 2026-02-14T18:54:20 style: nudge avatar size
+2026-02-15T12:30:31 style: tighten spacing on cards
