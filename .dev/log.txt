@@ -651,3 +651,4 @@
 2026-02-15T13:05:20 style: tighten spacing on cards
 2026-02-16T11:45:15 chore: minor housekeeping
 2026-02-16T13:36:32 fix: handle edge case in date parsing
+2026-02-18T16:33:16 docs: clarify setup steps
