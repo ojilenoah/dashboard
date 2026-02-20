@@ -656,3 +656,4 @@
 2026-02-19T09:35:50 docs: add inline notes
 2026-02-19T10:44:41 feat: explore chart variant
 2026-02-19T13:24:23 fix: typo in component name
+2026-02-20T10:16:12 chore: cleanup dead code
