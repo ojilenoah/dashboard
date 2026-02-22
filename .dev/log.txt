@@ -659,3 +659,4 @@
 2026-02-20T10:16:12 chore: cleanup dead code
 2026-02-20T17:51:20 chore: cleanup dead code
 2026-02-21T10:30:24 test: snapshot edge case
+2026-02-21T17:32:20 refactor: collapse duplicate branches
