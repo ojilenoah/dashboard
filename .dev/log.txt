@@ -662,3 +662,4 @@
 2026-02-21T17:32:20 refactor: collapse duplicate branches
 2026-02-22T11:38:59 style: tighten spacing on cards
 2026-02-23T13:24:20 wip: experiment with layout tweaks
+2026-02-23T23:40:03 test: cover empty-state rendering
