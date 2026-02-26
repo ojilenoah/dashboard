@@ -664,3 +664,4 @@
 2026-02-23T13:24:20 wip: experiment with layout tweaks
 2026-02-23T23:40:03 test: cover empty-state rendering
 2026-02-24T15:57:18 chore: tidy up imports
+2026-02-25T17:17:15 chore: update local notes
