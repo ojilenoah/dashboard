@@ -671,3 +671,4 @@
 2026-02-26T16:35:19 fix: typo in component name
 2026-02-27T21:54:51 refactor: collapse duplicate branches
 2026-03-02T11:03:03 refactor: extract shared helper
+2026-03-02T11:07:48 perf: skip redundant render
