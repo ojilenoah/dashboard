@@ -673,3 +673,4 @@
 2026-03-02T11:03:03 refactor: extract shared helper
 2026-03-02T11:07:48 perf: skip redundant render
 2026-03-03T14:05:48 feat: prototype filter UI
+2026-03-03T15:38:06 chore: rename internal symbol
