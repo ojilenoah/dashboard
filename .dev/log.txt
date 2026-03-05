@@ -677,3 +677,4 @@
 2026-03-03T21:03:05 fix: respect reduced-motion preference
 2026-03-04T11:31:20 test: snapshot edge case
 2026-03-04T13:59:12 refactor: pull constants to module top
+2026-03-04T14:14:49 feat: explore chart variant
