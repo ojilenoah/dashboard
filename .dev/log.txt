@@ -682,3 +682,4 @@
 2026-03-05T10:45:49 feat: explore chart variant
 2026-03-05T14:25:23 feat: try alternate animation
 2026-03-06T15:19:12 style: tighten spacing on cards
+2026-03-08T11:23:11 refactor: extract shared helper
