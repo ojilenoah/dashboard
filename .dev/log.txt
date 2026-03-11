@@ -684,3 +684,4 @@
 2026-03-06T15:19:12 style: tighten spacing on cards
 2026-03-08T11:23:11 refactor: extract shared helper
 2026-03-09T15:26:20 feat: try alternate animation
+2026-03-10T13:17:08 docs: clarify setup steps
