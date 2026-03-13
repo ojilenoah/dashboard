@@ -686,3 +686,4 @@
 2026-03-09T15:26:20 feat: try alternate animation
 2026-03-10T13:17:08 docs: clarify setup steps
 2026-03-11T10:35:50 docs: add inline notes
+2026-03-12T16:53:58 chore: cleanup dead code
