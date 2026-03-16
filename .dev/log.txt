@@ -690,3 +690,4 @@
 2026-03-13T18:58:04 feat: scaffold new section
 2026-03-13T23:06:34 perf: skip redundant render
 2026-03-14T17:31:21 fix: handle edge case in date parsing
+2026-03-16T11:24:40 style: align icons in header
