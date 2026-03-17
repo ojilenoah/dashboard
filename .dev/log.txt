@@ -692,3 +692,4 @@
 2026-03-14T17:31:21 fix: handle edge case in date parsing
 2026-03-16T11:24:40 style: align icons in header
 2026-03-17T09:33:22 style: align icons in header
+2026-03-17T11:16:23 fix: respect reduced-motion preference
