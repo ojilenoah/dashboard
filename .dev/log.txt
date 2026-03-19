@@ -696,3 +696,4 @@
 2026-03-17T15:17:01 docs: note follow-ups
 2026-03-18T18:24:07 chore: cleanup dead code
 2026-03-19T11:06:00 docs: clarify setup steps
+2026-03-19T11:49:50 refactor: simplify state derivation
