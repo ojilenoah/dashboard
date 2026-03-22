@@ -700,3 +700,4 @@
 2026-03-19T14:10:39 style: tighten spacing on cards
 2026-03-20T15:02:54 chore: cleanup dead code
 2026-03-21T10:50:15 wip: sketch dashboard variant
+2026-03-21T18:29:01 refactor: simplify state derivation
