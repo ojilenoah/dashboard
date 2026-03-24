@@ -702,3 +702,4 @@
 2026-03-21T10:50:15 wip: sketch dashboard variant
 2026-03-21T18:29:01 refactor: simplify state derivation
 2026-03-22T15:34:07 chore: tidy up imports
+2026-03-23T17:54:59 refactor: simplify state derivation
