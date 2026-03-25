@@ -704,3 +704,4 @@
 2026-03-22T15:34:07 chore: tidy up imports
 2026-03-23T17:54:59 refactor: simplify state derivation
 2026-03-24T19:53:21 style: align icons in header
+2026-03-25T10:35:17 feat: explore chart variant
