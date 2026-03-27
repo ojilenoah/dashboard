@@ -708,3 +708,4 @@
 2026-03-25T16:26:18 refactor: extract shared helper
 2026-03-25T18:41:29 fix: typo in component name
 2026-03-26T14:56:42 refactor: pull constants to module top
+2026-03-26T17:58:01 fix: handle edge case in date parsing
