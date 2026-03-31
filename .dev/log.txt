@@ -711,3 +711,4 @@
 2026-03-26T17:58:01 fix: handle edge case in date parsing
 2026-03-27T23:33:20 test: cover empty-state rendering
 2026-03-30T13:02:20 docs: add inline notes
+2026-03-30T15:09:54 refactor: extract shared helper
