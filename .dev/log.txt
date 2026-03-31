@@ -713,3 +713,4 @@
 2026-03-30T13:02:20 docs: add inline notes
 2026-03-30T15:09:54 refactor: extract shared helper
 2026-03-30T17:56:27 docs: note follow-ups
+2026-03-31T09:59:33 chore: bump internal version
