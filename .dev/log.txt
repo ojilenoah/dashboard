@@ -715,3 +715,4 @@
 2026-03-30T17:56:27 docs: note follow-ups
 2026-03-31T09:59:33 chore: bump internal version
 2026-03-31T12:50:53 perf: memoize derived value
+2026-03-31T18:23:59 chore: rename internal symbol
