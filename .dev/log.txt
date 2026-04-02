@@ -718,3 +718,4 @@
 2026-03-31T18:23:59 chore: rename internal symbol
 2026-04-01T09:45:51 docs: note follow-ups
 2026-04-02T10:12:36 style: nudge avatar size
+2026-04-02T11:23:31 style: tighten spacing on cards
