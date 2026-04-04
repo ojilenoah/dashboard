@@ -722,3 +722,4 @@
 2026-04-02T16:44:58 refactor: extract shared helper
 2026-04-03T09:12:33 fix: respect reduced-motion preference
 2026-04-03T13:05:47 refactor: pull constants to module top
+2026-04-03T17:39:54 chore: minor housekeeping
