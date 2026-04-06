@@ -724,3 +724,4 @@
 2026-04-03T13:05:47 refactor: pull constants to module top
 2026-04-03T17:39:54 chore: minor housekeeping
 2026-04-05T11:16:36 style: tighten spacing on cards
+2026-04-05T21:41:07 chore: cleanup dead code
