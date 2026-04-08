@@ -733,3 +733,4 @@
 2026-04-07T10:21:27 feat: try alternate animation
 2026-04-07T15:16:37 docs: note follow-ups
 2026-04-07T21:54:31 style: nudge avatar size
+2026-04-08T11:28:12 feat: prototype filter UI
