@@ -732,3 +732,4 @@
 2026-04-06T17:00:57 wip: experiment with layout tweaks
 2026-04-07T10:21:27 feat: try alternate animation
 2026-04-07T15:16:37 docs: note follow-ups
+2026-04-07T21:54:31 style: nudge avatar size
