@@ -735,3 +735,4 @@
 2026-04-07T21:54:31 style: nudge avatar size
 2026-04-08T11:28:12 feat: prototype filter UI
 2026-04-08T12:00:49 test: snapshot edge case
+2026-04-10T15:36:40 docs: add inline notes
