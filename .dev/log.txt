@@ -736,3 +736,4 @@
 2026-04-08T11:28:12 feat: prototype filter UI
 2026-04-08T12:00:49 test: snapshot edge case
 2026-04-10T15:36:40 docs: add inline notes
+2026-04-10T16:16:49 perf: memoize derived value
