@@ -742,3 +742,4 @@
 2026-04-14T11:31:17 chore: minor housekeeping
 2026-04-14T12:28:52 refactor: collapse duplicate branches
 2026-04-14T15:34:29 fix: respect reduced-motion preference
+2026-04-14T19:53:55 docs: add inline notes
