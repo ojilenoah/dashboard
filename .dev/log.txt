@@ -746,3 +746,4 @@
 2026-04-15T23:27:56 refactor: pull constants to module top
 2026-04-16T11:34:13 style: tighten spacing on cards
 2026-04-16T14:36:57 style: tighten spacing on cards
+2026-04-17T10:52:57 refactor: collapse duplicate branches
