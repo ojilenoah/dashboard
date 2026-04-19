@@ -748,3 +748,4 @@
 2026-04-16T14:36:57 style: tighten spacing on cards
 2026-04-17T10:52:57 refactor: collapse duplicate branches
 2026-04-17T14:54:45 fix: ensure consistent ring color
+2026-04-18T14:01:46 perf: memoize derived value
