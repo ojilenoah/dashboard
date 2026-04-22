@@ -752,3 +752,4 @@
 2026-04-19T21:57:08 chore: bump internal version
 2026-04-20T13:20:00 chore: cleanup dead code
 2026-04-20T16:26:41 feat: try alternate animation
+2026-04-22T11:49:34 chore: bump internal version
