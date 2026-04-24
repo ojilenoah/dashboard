@@ -756,3 +756,4 @@
 2026-04-22T16:43:14 wip: sketch dashboard variant
 2026-04-23T10:59:47 perf: memoize derived value
 2026-04-23T14:44:05 chore: minor housekeeping
+2026-04-23T14:58:58 chore: rename internal symbol
