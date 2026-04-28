@@ -758,3 +758,4 @@
 2026-04-23T14:44:05 chore: minor housekeeping
 2026-04-23T14:58:58 chore: rename internal symbol
 2026-04-27T11:00:42 chore: update local notes
+2026-04-27T14:38:31 wip: experiment with layout tweaks
