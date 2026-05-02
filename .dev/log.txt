@@ -764,3 +764,4 @@
 2026-04-28T14:54:18 test: snapshot edge case
 2026-04-30T11:03:07 wip: sketch dashboard variant
 2026-05-01T09:35:30 chore: bump internal version
+2026-05-01T23:42:23 chore: bump internal version
