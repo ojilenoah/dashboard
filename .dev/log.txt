@@ -776,3 +776,4 @@
 2026-05-04T16:09:45 docs: clarify setup steps
 2026-05-04T19:02:15 chore: update local notes
 2026-05-05T10:40:10 style: tighten spacing on cards
+2026-05-05T11:29:34 feat: try alternate animation
