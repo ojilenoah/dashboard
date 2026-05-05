@@ -774,3 +774,4 @@
 2026-05-04T13:16:41 chore: rename internal symbol
 2026-05-04T14:31:59 style: align icons in header
 2026-05-04T16:09:45 docs: clarify setup steps
+2026-05-04T19:02:15 chore: update local notes
