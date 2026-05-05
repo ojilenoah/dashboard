@@ -772,3 +772,4 @@
 2026-05-04T10:17:31 feat: prototype filter UI
 2026-05-04T11:36:29 test: snapshot edge case
 2026-05-04T13:16:41 chore: rename internal symbol
+2026-05-04T14:31:59 style: align icons in header
