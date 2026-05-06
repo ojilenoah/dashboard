@@ -778,3 +778,4 @@
 2026-05-05T10:40:10 style: tighten spacing on cards
 2026-05-05T11:29:34 feat: try alternate animation
 2026-05-05T14:46:17 chore: bump internal version
+2026-05-05T16:46:08 style: tighten spacing on cards
