@@ -782,3 +782,4 @@
 2026-05-06T12:49:09 fix: respect reduced-motion preference
 2026-05-07T19:43:25 style: nudge avatar size
 2026-05-09T09:45:42 refactor: simplify state derivation
+2026-05-10T10:47:07 chore: tidy up imports
