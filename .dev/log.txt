@@ -785,3 +785,4 @@
 2026-05-10T10:47:07 chore: tidy up imports
 2026-05-11T09:19:19 style: nudge avatar size
 2026-05-11T09:33:27 refactor: extract shared helper
+2026-05-11T11:06:37 fix: typo in component name
