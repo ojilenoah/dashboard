@@ -790,3 +790,4 @@
 2026-05-11T15:48:46 wip: sketch dashboard variant
 2026-05-11T17:03:31 fix: ensure consistent ring color
 2026-05-12T11:59:13 refactor: simplify state derivation
+2026-05-12T14:11:19 feat: try alternate animation
