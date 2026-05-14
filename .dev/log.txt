@@ -794,3 +794,4 @@
 2026-05-12T23:14:09 chore: update local notes
 2026-05-13T09:17:44 chore: tidy up imports
 2026-05-13T11:26:34 docs: note follow-ups
+2026-05-13T14:02:25 fix: respect reduced-motion preference
