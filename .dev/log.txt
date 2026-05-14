@@ -797,3 +797,4 @@
 2026-05-13T14:02:25 fix: respect reduced-motion preference
 2026-05-13T19:12:44 docs: note follow-ups
 2026-05-14T09:56:41 chore: tidy up imports
+2026-05-14T10:09:21 style: nudge avatar size
