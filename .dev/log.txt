@@ -798,3 +798,4 @@
 2026-05-13T19:12:44 docs: note follow-ups
 2026-05-14T09:56:41 chore: tidy up imports
 2026-05-14T10:09:21 style: nudge avatar size
+2026-05-14T13:47:34 chore: cleanup dead code
