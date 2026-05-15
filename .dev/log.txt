@@ -800,3 +800,4 @@
 2026-05-14T10:09:21 style: nudge avatar size
 2026-05-14T13:47:34 chore: cleanup dead code
 2026-05-14T14:53:59 chore: tidy up imports
+2026-05-14T18:17:47 style: nudge avatar size
