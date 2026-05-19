@@ -802,3 +802,4 @@
 2026-05-14T14:53:59 chore: tidy up imports
 2026-05-14T18:17:47 style: nudge avatar size
 2026-05-14T21:37:37 style: tighten spacing on cards
+2026-05-18T15:38:40 wip: sketch dashboard variant
