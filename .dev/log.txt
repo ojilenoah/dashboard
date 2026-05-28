@@ -818,3 +818,4 @@
 2026-05-27T12:55:19 fix: handle edge case in date parsing
 2026-05-27T17:11:34 feat: prototype filter UI
 2026-05-27T17:24:10 test: cover empty-state rendering
+2026-05-27T17:42:22 fix: handle edge case in date parsing
