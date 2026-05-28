@@ -816,3 +816,4 @@
 2026-05-25T12:43:59 refactor: collapse duplicate branches
 2026-05-25T14:49:14 chore: update local notes
 2026-05-27T12:55:19 fix: handle edge case in date parsing
+2026-05-27T17:11:34 feat: prototype filter UI
