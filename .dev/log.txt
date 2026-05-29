@@ -820,3 +820,4 @@
 2026-05-27T17:24:10 test: cover empty-state rendering
 2026-05-27T17:42:22 fix: handle edge case in date parsing
 2026-05-28T10:53:53 refactor: collapse duplicate branches
+2026-05-28T14:05:24 refactor: pull constants to module top
