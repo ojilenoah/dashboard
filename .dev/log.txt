@@ -823,3 +823,4 @@
 2026-05-28T14:05:24 refactor: pull constants to module top
 2026-05-28T15:52:23 fix: typo in component name
 2026-05-29T10:48:01 feat: prototype filter UI
+2026-05-29T14:14:04 chore: tidy up imports
