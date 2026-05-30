@@ -825,3 +825,4 @@
 2026-05-29T10:48:01 feat: prototype filter UI
 2026-05-29T14:14:04 chore: tidy up imports
 2026-05-29T16:00:33 style: nudge avatar size
+2026-05-29T16:09:52 chore: bump internal version
