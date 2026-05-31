@@ -2,7 +2,24 @@
   "permissions": {
     "allow": [
       "Bash(npx --version)",
-      "Bash(npx --yes create-next-app@latest . --typescript --tailwind --eslint --app --src-dir --import-alias \"@/*\" --use-npm --turbopack --yes)"
+      "Bash(npx --yes create-next-app@latest . --typescript --tailwind --eslint --app --src-dir --import-alias \"@/*\" --use-npm --turbopack --yes)",
+      "Bash(npx --yes shadcn@latest init --yes --base-color neutral)",
+      "Bash(npx --yes shadcn@latest init --help)",
+      "Bash(npx --yes shadcn@latest init --defaults --yes)",
+      "Bash(npx --yes shadcn@latest add @efferd/dashboard-2 --yes)",
+      "Bash(npx --yes tsc --noEmit)",
+      "Read(//c/Users/HP/.claude/**)",
+      "Read(//c/Users/HP/.claude/plugins/**)",
+      "Read(//c/Users/HP/AppData/**)",
+      "Bash(npm root *)",
+      "Read(//c/Users/HP/AppData/Local/npm-cache/_npx/**)",
+      "Bash(npm install *)",
+      "Bash(npx --yes eslint src --max-warnings 0)",
+      "Bash(npx --yes eslint src)",
+      "Bash(npx --yes eslint src/components/theme-toggle.tsx src/components/analytics src/components/projects src/components/nav-group.tsx src/components/app-sidebar.tsx src/components/app-header.tsx src/components/nav-user.tsx src/app)",
+      "Bash(npm run *)",
+      "Bash(python backdate_commits.py --dry-run)",
+      "Bash(git ls-remote *)"
     ]
   }
 }
