@@ -827,3 +827,4 @@
 2026-05-29T16:00:33 style: nudge avatar size
 2026-05-29T16:09:52 chore: bump internal version
 2026-05-30T17:02:45 test: snapshot edge case
+2026-05-30T17:25:08 perf: skip redundant render
