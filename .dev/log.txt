@@ -828,3 +828,4 @@
 2026-05-29T16:09:52 chore: bump internal version
 2026-05-30T17:02:45 test: snapshot edge case
 2026-05-30T17:25:08 perf: skip redundant render
+2026-05-31T13:00:18 feat: try alternate animation
