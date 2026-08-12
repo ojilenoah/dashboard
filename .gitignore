@@ -39,8 +39,3 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
-
-# claude code metadata (regenerated locally; not needed in the repo)
-AGENTS.md
-CLAUDE.md
-.claude/
